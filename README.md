@@ -4,8 +4,6 @@
 ![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=guventalha&show_icons=true&theme=tokyonight)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guventalha&theme=tokyonight&layout=compact)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guventalha&theme=tokyonight&hide_border=true)
 
 

@@ -1,11 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web+developer.++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Front-hand+web+developer.++++++++++)](https://git.io/typing-svg)
 
-![Meteahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=metehancelik&show_icons=true&theme=tokyonight)
+![Meteahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=guventalha&show_icons=true&theme=tokyonight)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metehancelik&theme=tokyonight&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guventalha&theme=tokyonight&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=metehancelik&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guventalha&theme=tokyonight&hide_border=true)
 
 
 

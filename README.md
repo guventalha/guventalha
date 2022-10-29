@@ -1,15 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Frontend+web+developer.++++++++++)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://github.com/cevahir72">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=guventalha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guventalha&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
 
 ![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=guventalha&show_icons=true&theme=tokyonight)
 
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guventalha&layout=compact&langs_count=8&theme=algolia"/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guventalha&theme=tokyonight&layout=compact)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guventalha&theme=tokyonight&hide_border=true)
 

@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Front-hand+web+developer.++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Frontend+web+developer.++++++++++)](https://git.io/typing-svg)
 
 ![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=guventalha&show_icons=true&theme=tokyonight)
 
